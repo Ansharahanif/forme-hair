@@ -6,9 +6,9 @@ This is a responsive multi-page website created using **HTML and CSS only** for 
 
  Live & Repository Links
 
-- Live Website (Netlify):** https://elegant-donut-e75f9a.netlify.app/
-- Live Website (GitHub Pages):** https://ansharahanif.github.io/forme-hair/
-- GitHub Repository:** https://github.com/Ansharahanif/forme-hair
+- Live Website (Netlify): https://elegant-donut-e75f9a.netlify.app/
+- Live Website (GitHub Pages): https://ansharahanif.github.io/forme-hair/
+- GitHub Repository: https://github.com/Ansharahanif/forme-hair
 
  Website Architecture
 
